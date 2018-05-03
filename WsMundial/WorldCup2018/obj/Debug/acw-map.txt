@@ -1,0 +1,8 @@
+WorldCup2018.GruposActivity, WorldCup2018;md533d862394aa7d3e4aa85fb04726c5010.GruposActivity
+WorldCup2018.GruposActivity, WorldCup2018, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533d862394aa7d3e4aa85fb04726c5010.GruposActivity
+WorldCup2018.GruposActivity;md533d862394aa7d3e4aa85fb04726c5010.GruposActivity
+worldcup2018.GruposActivity;md533d862394aa7d3e4aa85fb04726c5010.GruposActivity
+WorldCup2018.MainActivity, WorldCup2018;md533d862394aa7d3e4aa85fb04726c5010.MainActivity
+WorldCup2018.MainActivity, WorldCup2018, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533d862394aa7d3e4aa85fb04726c5010.MainActivity
+WorldCup2018.MainActivity;md533d862394aa7d3e4aa85fb04726c5010.MainActivity
+worldcup2018.MainActivity;md533d862394aa7d3e4aa85fb04726c5010.MainActivity

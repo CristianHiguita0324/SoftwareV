@@ -1,0 +1,11 @@
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\CADMundial.dll.config
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\CADMundial.dll
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\CADMundial.pdb
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\EntityFramework.dll
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\EntityFramework.xml
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\obj\Debug\CADMundial.csproj.CoreCompileInputs.cache
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\obj\Debug\CADMundial.dll
+C:\Users\jdsalazar.APLISALUD\documents\visual studio 2017\Projects\WsMundial\CADMundial\obj\Debug\CADMundial.pdb
+C:\Users\jdsalazar.APLISALUD\Documents\Visual Studio 2017\Projects\WsMundial\CADMundial\obj\Debug\CADMundial.csprojResolveAssemblyReference.cache
